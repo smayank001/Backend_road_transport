@@ -31,6 +31,8 @@ app.use(
       "http://localhost:3003",
       "https://backend-road-transport.onrender.com",
       "https://ministry-transport.onrender.com",
+      "http://localhost:5133",
+      "http://localhost:32100",
     ],
     credentials: true,
   })
